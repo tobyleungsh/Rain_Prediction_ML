@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt
 
-
-
 data_list = ['temp', 'wind', 'humidity','rain']
 
 def cleaning(li):

@@ -1,6 +1,4 @@
-﻿平均香港暑熱指數 - 京士柏
-Mean HKHI - King's Park
-年/Year,月/Month,日/Day,數值/Value,數據完整性/data Completeness
+﻿year,month,day,temp,complete
 2014,5,30,28.3,C
 2014,5,31,28.6,C
 2014,6,1,29.0,C

@@ -1,6 +1,4 @@
-﻿總雨量 (毫米) - 京士柏
-Total Rainfall (mm) - King's Park
-年/Year,月/Month,日/Day,數值/Value,數據完整性/data Completeness
+﻿year,month,day,rainfall,complete
 1992,7,1,0.0,C
 1992,7,2,1.7,C
 1992,7,3,0.0,C
